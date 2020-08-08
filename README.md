@@ -46,7 +46,7 @@ Bonus points if you add http:// in front of the load balancer DNS Name in the ou
 
 #### Usage
 
-> Install [AWS CLI](https://aws.amazon.com/cli/) installed.
+> Install [AWS CLI](https://aws.amazon.com/cli/)
 
 ```
 aws --version
